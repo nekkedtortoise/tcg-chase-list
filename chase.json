@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Steelix",
+      "set": "Aquapolis",
+      "number": "#H23",
+      "price": "213.71",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/b6b5f5eeba06df061f0c2265ff2e77ef8f5799632d788484a510be0b17083969/1600.jpg"
+    },
+    {
+      "name": "Steelix",
+      "set": "Aquapolis",
+      "number": "#35",
+      "price": "110.02",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/32bd85599b26067d48169ab4fa3a0acd5b96972172ce3fc702937fe7da922f45/1600.jpg"
+    },
+    {
+      "name": "Shining Steelix",
+      "set": "Neo Destiny",
+      "number": "#112",
+      "price": "289.41",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/b172b1bddd4b553218374047d0bd98dfd077d73afb28b366380c49115f0383d1/1600.jpg"
+    }
+  ]
+}
