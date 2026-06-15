@@ -16,10 +16,17 @@
     },
     {
       "name": "Steelix",
-      "set": "Aquapolis",
-      "number": "#H23",
-      "price": "213.71",
-      "image_url": "https://storage.googleapis.com/images.pricecharting.com/b6b5f5eeba06df061f0c2265ff2e77ef8f5799632d788484a510be0b17083969/1600.jpg"
+      "set": "Unleashed",
+      "number": "#87",
+      "price": "84.78",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/3e66e291a772df2521463cc00894b4a3f6ed3bcc855a4fca7829af7325860cf5/1600.jpg"
+    },
+    {
+      "name": "Steelix (1st Edition)",
+      "set": "Neo Genesis",
+      "number": "#15",
+      "price": "87.15",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/5bab23589cff32f4445e28ed21d9fbed70a22201b58ded4d4984f9691f3d0835/1600.jpg"
     },
     {
       "name": "Steelix (Revserse Holo)",
@@ -27,6 +34,34 @@
       "number": "#35",
       "price": "110.02",
       "image_url": "https://storage.googleapis.com/images.pricecharting.com/32bd85599b26067d48169ab4fa3a0acd5b96972172ce3fc702937fe7da922f45/1600.jpg"
+    },
+    {
+      "name": "Steelix",
+      "set": "Aquapolis",
+      "number": "#H23",
+      "price": "213.71",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/b6b5f5eeba06df061f0c2265ff2e77ef8f5799632d788484a510be0b17083969/1600.jpg"
+    },
+    {
+      "name": "Steelix (Reverse Holo)",
+      "set": "Skyridge",
+      "number": "#31",
+      "price": "112.40",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/7a4ddc318938332665c52c9f18f8e28b7788f7fcfbcf10941ee1d59617a4a8f2/1600.jpg"
+    },
+    {
+      "name": "Steelix",
+      "set": "Skyridge",
+      "number": "#H29",
+      "price": "248.78",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/9e09e32565109fc7661eb7ad3d95d294bc7f0b5f04f4b7858d0c6c68e676069f/1600.jpg"
+    },
+    {
+      "name": "Dark Steelix (Reverse Holo)",
+      "set": "Team Rocket Returns",
+      "number": "#10",
+      "price": "167.38",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/e11df0196f79dc91bb93c8073571fe05cf08c798e2b407223ac600f3b0e61741/1600.jpg"
     },
     {
       "name": "Jasmine's Steelix",
@@ -55,41 +90,6 @@
       "number": "#112",
       "price": "480.60",
       "image_url": "https://storage.googleapis.com/images.pricecharting.com/69f031af89d506c7ca6f353710ed9137fbfc2e81bc011f143d4cbbbb9d005e8d/1600.jpg"
-    },
-    {
-      "name": "Steelix (1st Edition)",
-      "set": "Neo Genesis",
-      "number": "#15",
-      "price": "87.15",
-      "image_url": "https://storage.googleapis.com/images.pricecharting.com/5bab23589cff32f4445e28ed21d9fbed70a22201b58ded4d4984f9691f3d0835/1600.jpg"
-    },
-    {
-      "name": "Steelix (Reverse Holo)",
-      "set": "Skyridge",
-      "number": "#31",
-      "price": "112.40",
-      "image_url": "https://storage.googleapis.com/images.pricecharting.com/7a4ddc318938332665c52c9f18f8e28b7788f7fcfbcf10941ee1d59617a4a8f2/1600.jpg"
-    },
-    {
-      "name": "Steelix",
-      "set": "Skyridge",
-      "number": "#H29",
-      "price": "248.78",
-      "image_url": "https://storage.googleapis.com/images.pricecharting.com/9e09e32565109fc7661eb7ad3d95d294bc7f0b5f04f4b7858d0c6c68e676069f/1600.jpg"
-    },
-    {
-      "name": "Dark Steelix (Reverse Holo)",
-      "set": "Team Rocket Returns",
-      "number": "#10",
-      "price": "167.38",
-      "image_url": "https://storage.googleapis.com/images.pricecharting.com/e11df0196f79dc91bb93c8073571fe05cf08c798e2b407223ac600f3b0e61741/1600.jpg"
-    },
-    {
-      "name": "Steelix",
-      "set": "Unleashed",
-      "number": "#87",
-      "price": "84.78",
-      "image_url": "https://storage.googleapis.com/images.pricecharting.com/3e66e291a772df2521463cc00894b4a3f6ed3bcc855a4fca7829af7325860cf5/1600.jpg"
     }
   ]
 }
