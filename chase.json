@@ -2,20 +2,6 @@
   "items": [
     {
       "name": "Steelix",
-      "set": "Aquapolis",
-      "number": "#H23",
-      "price": "213.71",
-      "image_url": "https://storage.googleapis.com/images.pricecharting.com/b6b5f5eeba06df061f0c2265ff2e77ef8f5799632d788484a510be0b17083969/1600.jpg"
-    },
-    {
-      "name": "Steelix (Revserse Holo)",
-      "set": "Aquapolis",
-      "number": "#35",
-      "price": "110.02",
-      "image_url": "https://storage.googleapis.com/images.pricecharting.com/32bd85599b26067d48169ab4fa3a0acd5b96972172ce3fc702937fe7da922f45/1600.jpg"
-    },
-    {
-      "name": "Steelix",
       "set": "Japanese Gold, Silver, New World",
       "number": "#208",
       "price": "16.34",
@@ -27,6 +13,20 @@
       "number": "#208",
       "price": "83.61",
       "image_url": "https://storage.googleapis.com/images.pricecharting.com/06a36c3836246f24b920bb9c8cc0da27edbf17a3563f9a05648b669ced58b271/1600.jpg"
+    },
+    {
+      "name": "Steelix",
+      "set": "Aquapolis",
+      "number": "#H23",
+      "price": "213.71",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/b6b5f5eeba06df061f0c2265ff2e77ef8f5799632d788484a510be0b17083969/1600.jpg"
+    },
+    {
+      "name": "Steelix (Revserse Holo)",
+      "set": "Aquapolis",
+      "number": "#35",
+      "price": "110.02",
+      "image_url": "https://storage.googleapis.com/images.pricecharting.com/32bd85599b26067d48169ab4fa3a0acd5b96972172ce3fc702937fe7da922f45/1600.jpg"
     },
     {
       "name": "Jasmine's Steelix",
